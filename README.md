@@ -138,3 +138,12 @@ capabilities to allow. Therefore, continued advancements in computing capability
 HPC (high-performance computing), mobile technology or elsewhere remain reliant on
 continuous development of those nanofabrication methods that provide sufficient capabilities to
 manufacture each succeeding generation of transistors at acceptable yields.
+
+Citation:\
+If this repository is used for academic work, cite the repository and any related project report, thesis, or paper
+@software{Techniques-Used-In-The-Evolution-of-Transistor-Architecture,\
+  title  = {Manufacturing the Third Dimension: Nanofabrication Process Evolution from},\
+  author = {Nathan Lablanc},\
+  year   = {2026},\
+  url    = {https://github.com/Natedog367/Techniques-Used-In-The-Evolution-of-Transistor-Architecture}\
+}
