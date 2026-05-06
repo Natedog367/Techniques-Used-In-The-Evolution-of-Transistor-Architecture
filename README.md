@@ -1,24 +1,25 @@
 # Techniques-Used-In-The-Evolution-of-Transistor-Architecture
 My research report is on the evolution of transistor architecture from MOSFET/CMOS→FinFET→GAAFET, specifically on the gate formation and its effects on yield and electrostatic control. This report outlines major nanofabrication techniques used in the design and fabrication of transistors and their gates. The techniques described in this report are shown below, along with the abstract and conclusion for convenience.
 
-MOSFET/CMOS:
-STI (Shallow Trench Isolation)
-Gate Oxidation
-Polysilicon Gate Patterning
+MOSFET/CMOS:\
+STI (Shallow Trench Isolation)\
+Gate Oxidation\
+Polysilicon Gate Patterning\
 
-FinFET:
-SADP/SAQP (Self Aligned Double/Quadruple Patterning)
-High-k/Metal Gate
-3D Etching Techniques
-Spacer Engineering
+FinFET:\
+SADP/SAQP (Self Aligned Double/Quadruple Patterning)\
+High-k/Metal Gate\
+3D Etching Techniques\
+Spacer Engineering\
 
-GAAFET:
-Epitaxial Si/SiGe SuperLattice Stack Formation
-Inner Spacer Formation
-Conformal ALD (Atomic layer deposition)
-BDI (Bottom Dielectric Isolation)
+GAAFET:\
+Epitaxial Si/SiGe SuperLattice Stack Formation\
+Inner Spacer Formation\
+Conformal ALD (Atomic layer deposition)\
+BDI (Bottom Dielectric Isolation)\
 
 Abstract:
+
   Historically, Moore’s Law followed a two-year transistor density doubling cadence;
 however, the constraints of economics, thermodynamics and physics have extended this cadence
 to nearly three years or longer. Therefore, as we continue to scale transistors, we will need
@@ -58,7 +59,8 @@ dielectric breakdown of inner spacers. The progression from two-dimensional plan
 three-dimensional transistor represents a fabrication driven approach to overcome fundamental
 scaling limitations.
 
-Conclusion
+Conclusion:
+
   The trajectory of the development of transistor manufacturing processes from planar
 CMOS through FinFET to finally the Gate-All-Around nanosheet architecture represents one of
 the longest-sustained, yet arguably most complex, engineering endeavors in the history of
@@ -66,6 +68,7 @@ manufacturing. Each architectural generation was not based on preference for a p
 however, it was based on the necessities of the fabrication limitations of the prior process
 technologies. Therefore, the fabrication needs of the previous generation defined the
 requirements for developing the next generation of architectures.
+
   The manufacturing discipline established by planar CMOS fabrication continues to
 govern the practices of the entire semiconductor industry today. STI provided a solution to the
 isolation scaling problems presented by LOCOS. Additionally, since STI relied on CMP
@@ -74,6 +77,7 @@ subsequent lithographic processing steps. Thermal gate oxidation and self-aligne
 gate patterning together created a self-aligned transistor structure that allowed for the massproduction of large numbers of integrated circuits at reasonable yields and costs. Absent these
 fundamental techniques, there would be no present-day cost and yield economics for producing
 large quantities of functional transistors used in integrated circuits today.
+
   FinFETs extended the semiconductor industry's ability to continue scaling for another
 decade beyond what can be achieved using planar geometries. By demonstrating that lithography
 resolution limits do not need to be insurmountable obstacles, but rather they are simply processengineering challenges, SADP and SAQP allowed for the creation of features at pitches that were
@@ -87,6 +91,7 @@ that would otherwise be non-operational. Collectively, these advances enabled th
 10 nm, and 7 nm process nodes that underlie many of the processors, graphics chips, and SoCs
 found in mobile systems and other areas that constitute much of today's computing
 infrastructure.
+
   GAAFET nanosheet architecture has similarly continued this trajectory even longer. With
 Samsung's 3 nm GAA process going into production in 2022 and TSMC and Intel working
 toward their own nanosheet-based nodes at 2 nm and below, the fabrication innovations
@@ -100,6 +105,7 @@ electrostatic control afforded by the nanosheet gate results in reduced operatin
 decreased leakage-power consumption, and increased transistor densities. All of these result in
 quantifiable improvements in energy efficiency and computational throughput in chips utilized in
 global data centers, AI-accelerator hardware, and consumer-electronics applications.
+
   Similarly significant in terms of their actual-world impacts are the yield improvements
 realized with each successive generation. Pattern-loading solutions developed for STI-CMP
 influenced the dummy-fill layouts and design rules governing all advanced chip designs today.
@@ -111,6 +117,7 @@ challenge solved during research-and-development stages lowers the cost-per-func
 transistor at commercial production stages. Lowering this cost-per-transistor ultimately
 determines if a specific technological node is economical enough to move out of a laboratory
 environment and into commercial production.
+
   In addition to establishing the technical foundation for future post-GAAFET device
 concepts currently being explored, the fabrication innovations developed across these three
 architectural generations have also established a wealth of process knowledge that precedes
@@ -124,6 +131,7 @@ alternatives to Silicon channels at sub-1 nm EOT (effective oxide thickness), de
 atomic-level control over ALD and selective etching that existed during nanosheet fabrication.
 As such, while historic, this body of process knowledge is also entirely relevant as the direct
 basis of precedent upon which future generations of transistor architectures will be built.
+
   This documented report illustrates that semiconductor scaling is fundamentally a
 fabrication issue. Device architecture follows wherever process innovation provides sufficient
 capabilities to allow. Therefore, continued advancements in computing capability whether in AI,
