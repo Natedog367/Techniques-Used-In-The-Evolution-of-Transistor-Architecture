@@ -4,19 +4,19 @@ My research report is on the evolution of transistor architecture from MOSFET/CM
 MOSFET/CMOS:\
 STI (Shallow Trench Isolation)\
 Gate Oxidation\
-Polysilicon Gate Patterning\
+Polysilicon Gate Patterning
 
 FinFET:\
 SADP/SAQP (Self Aligned Double/Quadruple Patterning)\
 High-k/Metal Gate\
 3D Etching Techniques\
-Spacer Engineering\
+Spacer Engineering
 
 GAAFET:\
 Epitaxial Si/SiGe SuperLattice Stack Formation\
 Inner Spacer Formation\
 Conformal ALD (Atomic layer deposition)\
-BDI (Bottom Dielectric Isolation)\
+BDI (Bottom Dielectric Isolation)
 
 Abstract:
 
